@@ -1,7 +1,7 @@
 <h1 align="center"> A new foe has appeared... </h1>
 <img src="https://github.com/Yass1G1/Yass1G1/blob/main/Banner_Github_blue.jpg" alt="My Github Banner" />
 <!-- Stats -->
-![](https://komarev.com/ghpvc/?username=Yass1G1)
+
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=Yass1G1&show_icons=true&hide_border=true&theme=github_dark)
 
 ## Who I am ?
