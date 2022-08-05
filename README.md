@@ -6,8 +6,10 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 <br>
 -📍 Based in France <img alt="France flag" src="https://user-images.githubusercontent.com/67269173/183163689-964856a6-4b98-4d79-a088-80752a5d7542.png" width=2% />
 , Grand-Est
+- 👨‍🎓 Student in 12th Grade
 <br>
 ### 🌱 Currently learning
+---:
 ![C langage Logo](https://custom-icon-badges.herokuapp.com/badge/C%20language-5d6cbf?style=for-the-badge&logo=C)
 ![Python Logo](https://custom-icon-badges.herokuapp.com/badge/Python-366e9e?style=for-the-badge&logo=python&logoColor=white)
 ![Vue Logo](https://custom-icon-badges.herokuapp.com/badge/Vue-34495E?style=for-the-badge&logo=Vue.js)
