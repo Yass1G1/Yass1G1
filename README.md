@@ -3,6 +3,7 @@
 
 ## Who am I ?
 My name is Yassine and i'm a student who practice IT since his youngest age.
+-📍 Based in France ![image](https://user-images.githubusercontent.com/67269173/183157704-58375406-bc99-49e9-9818-e48cbab52d87.png), Grand-Est
 <br>
 ### 🌱 Currently learning
 ![C langage Logo](https://custom-icon-badges.herokuapp.com/badge/C%20language-5d6cbf?style=for-the-badge&logo=C)
