@@ -33,8 +33,8 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 | ![C langage Logo](https://custom-icon-badges.herokuapp.com/badge/C%20language-5d6cbf?style=for-the-badge&logo=C)             |🟨🟨             |
 | ![JS Logo](https://custom-icon-badges.herokuapp.com/badge/JS-e5bc00?style=for-the-badge&logo=js)                             |🟨🟨             | 
 
-|![My Github stats](https://github-readme-stats.vercel.app/api?username=Yass1G1&show_icons=true&hide_border=true&theme=github_dark)|  
-|   ![Abdul's's github activity graph](https://activity-graph.herokuapp.com/graph?username=fabdul88&theme=rogue) |
+| ![My Github stats](https://github-readme-stats.vercel.app/api?username=Yass1G1&show_icons=true&hide_border=true&theme=github_dark)| ![Abdul's's github activity graph](https://activity-graph.herokuapp.com/graph?username=fabdul88&theme=rogue) |  
+
 
 
 
