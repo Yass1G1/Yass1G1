@@ -10,9 +10,9 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 
 ### 🌱 Currently learning
 <p align="center">
-  ![C_language_Logo](https://custom-icon-badges.herokuapp.com/badge/C%20language-5d6cbf?style=for-the-badge&logo=C)
-  ![Python Logo](https://custom-icon-badges.herokuapp.com/badge/Python-366e9e?style=for-the-badge&logo=python&logoColor=white)
-  ![Vue Logo](https://custom-icon-badges.herokuapp.com/badge/Vue-34495E?style=for-the-badge&logo=Vue.js)
+  <img alt="C language logo" src="https://custom-icon-badges.herokuapp.com/badge/C%20language-5d6cbf?style=for-the-badge&logo=C" />
+  <img alt="Python logo" src="https://custom-icon-badges.herokuapp.com/badge/Python-366e9e?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Vue logo" src="https://custom-icon-badges.herokuapp.com/badge/Vue-34495E?style=for-the-badge&logo=Vue.js" />
 </p>
 
 
