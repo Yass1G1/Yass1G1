@@ -25,7 +25,7 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 
 
 ## Some project
-(I did the website, not the game) : 
+(I did the website, not the game) : <a href=""><img src="https://custom-icon-badges.herokuapp.com/badge/My%20Vue%20Website-34495E?style=for-the-badge&logo=Vue.js" /></a>
 
 
 <!-- Stats -->
