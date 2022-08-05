@@ -3,6 +3,7 @@
 
 ## Who am I ?
 My name is Yassine and i'm a student who practice IT since his youngest age.
+<br>
 -📍 Based in France <img alt="France flag" src="https://user-images.githubusercontent.com/67269173/183163689-964856a6-4b98-4d79-a088-80752a5d7542.png" width=2% />
 , Grand-Est
 <br>
