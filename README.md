@@ -9,10 +9,12 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 ![Python Logo](https://custom-icon-badges.herokuapp.com/badge/Python-366e9e?style=for-the-badge&logo=python&logoColor=white)
 ![Vue Logo](https://custom-icon-badges.herokuapp.com/badge/Vue-34495E?style=for-the-badge&logo=Vue.js)
 
-
 **✨I also play some video games during my free time**
 
 ## My skills
+| Language                                                                                                | Level |
+| --------------------------------------------------------------------------------------------------------|-------|
+| ![html logo](https://custom-icon-badges.herokuapp.com/badge/HTML5-orange?style=for-the-badge&logo=html)||
 
 ## Some projects
 
