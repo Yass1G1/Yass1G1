@@ -17,7 +17,7 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 ![riot_logo](https://custom-icon-badges.herokuapp.com/badge/Riot-d32a37?style=for-the-badge&label=ZokoLeDozo%23FTG&logo=Riot%20Games)
 
 ## My skills
-| Language                                                                                                                    | Level            |
+|| Language                                                                                                                    | Level            |||![My Github stats](https://github-readme-stats.vercel.app/api?username=Yass1G1&show_icons=true&hide_border=true&theme=github_dark)||
 | :----------------------------------------------------:                                                                      |:-----------------|
 | ![css_logo](https://custom-icon-badges.herokuapp.com/badge/CSS3-1471b6?style=for-the-badge&logo=css)                        |🟩🟩🟩🟩🟩🟩🟩 |
 | ![html logo](https://custom-icon-badges.herokuapp.com/badge/HTML5-f0642b?style=for-the-badge&logo=html)                     |🟩🟩🟩🟩🟩🟩🟩 |
