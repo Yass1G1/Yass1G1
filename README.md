@@ -17,7 +17,7 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 
 ## My skills
 | Language                                                                                                                    | Level            |
-| ----------------------------------------------------                                                                        |------------------|
+| :----------------------------------------------------:                                                                      |:----------------:|
 | ![css_logo](https://custom-icon-badges.herokuapp.com/badge/CSS3-1471b6?style=for-the-badge&logo=css)                        |🟩🟩🟩🟩🟩🟩🟩 |
 | ![html logo](https://custom-icon-badges.herokuapp.com/badge/HTML5-f0642b?style=for-the-badge&logo=html)                     |🟩🟩🟩🟩🟩🟩🟩 |
 | ![Python Logo](https://custom-icon-badges.herokuapp.com/badge/Python-366e9e?style=for-the-badge&logo=python&logoColor=white)|🟩🟩🟩🟩        |
