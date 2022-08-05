@@ -25,7 +25,8 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 | ![Vue Logo](https://custom-icon-badges.herokuapp.com/badge/Vue-34495E?style=for-the-badge&logo=Vue.js)                       |🟩🟩🟩🟩        |
 | ![Bash Logo](https://custom-icon-badges.herokuapp.com/badge/Bash\/Unix-3f464a?style=for-the-badge&logo=GNU%20Bash)           |🟨🟨🟨           |
 | ![C langage Logo](https://custom-icon-badges.herokuapp.com/badge/C%20language-5d6cbf?style=for-the-badge&logo=C)             |🟨🟨             |
-|| ![JS Logo](https://custom-icon-badges.herokuapp.com/badge/JS-e5bc00?style=for-the-badge&logo=js)                            |🟨🟨             |||![My Github stats](https://github-readme-stats.vercel.app/api?username=Yass1G1&show_icons=true&hide_border=true&theme=github_dark)|
+|| ![JS Logo](https://custom-icon-badges.herokuapp.com/badge/JS-e5bc00?style=for-the-badge&logo=js)                            |🟨🟨             ||
+|![My Github stats](https://github-readme-stats.vercel.app/api?username=Yass1G1&show_icons=true&hide_border=true&theme=github_dark)||
 
 
 ## Some project
