@@ -9,15 +9,18 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 - 👨‍🎓 Student in 12th Grade
 
 ### 🌱 Currently learning
-<p align="center">
-  <img alt="C language logo" src="https://custom-icon-badges.herokuapp.com/badge/C%20language-5d6cbf?style=for-the-badge&logo=C" />
-  <img alt="Python logo" src="https://custom-icon-badges.herokuapp.com/badge/Python-366e9e?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Vue logo" src="https://custom-icon-badges.herokuapp.com/badge/Vue-34495E?style=for-the-badge&logo=Vue.js" />
-</p>
+![C_language_logo](https://custom-icon-badges.herokuapp.com/badge/C%20language-5d6cbf?style=for-the-badge&logo=C)
+![Python_logo](https://custom-icon-badges.herokuapp.com/badge/Python-366e9e?style=for-the-badge&logo=python&logoColor=white)
+![Vue_logo](https://custom-icon-badges.herokuapp.com/badge/Vue-34495E?style=for-the-badge&logo=Vue.js)
 
 
 **✨I also play some video games during my free time, feel free to add me on my socials :**
 <br>
+<p align="center">
+  <img alt="Discord username" src="https://custom-icon-badges.herokuapp.com/badge/Discord-7288dc?style=for-the-badge&label=ZokoNFT%236403&logo=Discord" />
+  <img alt="Steam username" src="https://custom-icon-badges.herokuapp.com/badge/Steam-01457c?style=for-the-badge&label=Zoko&logo=Steam" />
+  <img alt="Riot ID" src="https://custom-icon-badges.herokuapp.com/badge/Riot-d32a37?style=for-the-badge&label=ZokoLeDozo%23FTG&logo=Riot%20Games" />
+</p>
 ![discord_logo](https://custom-icon-badges.herokuapp.com/badge/Discord-7288dc?style=for-the-badge&label=ZokoNFT%236403&logo=Discord)
 ![steam_logo](https://custom-icon-badges.herokuapp.com/badge/Steam-01457c?style=for-the-badge&label=Zoko&logo=Steam)
 ![riot_logo](https://custom-icon-badges.herokuapp.com/badge/Riot-d32a37?style=for-the-badge&label=ZokoLeDozo%23FTG&logo=Riot%20Games)
