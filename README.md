@@ -11,9 +11,9 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 
 **✨I also play some video games during my free time, feel free to add me on my socials :**
 <br>
-![discord_logo](https://custom-icon-badges.herokuapp.com/badge/Discord-7288dc?style=for-the-badge&label=ZokoNFT#6403&logo=Discord)
+![discord_logo](https://custom-icon-badges.herokuapp.com/badge/Discord-7288dc?style=for-the-badge&label=ZokoNFT\#6403&logo=Discord)
 ![steam_logo](https://custom-icon-badges.herokuapp.com/badge/Steam-01457c?style=for-the-badge&label=Zoko&logo=Steam)
-![riot_logo](https://custom-icon-badges.herokuapp.com/badge/Riot-d32a37?style=for-the-badge&label=ZokoLeDozo#FTG&logo=Riot)
+![riot_logo](https://custom-icon-badges.herokuapp.com/badge/Riot-d32a37?style=for-the-badge&label=ZokoLeDozo\#FTG&logo=Riot)
 
 ## My skills
 | Language                                                                                                                    | Level            |
