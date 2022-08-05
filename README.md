@@ -5,6 +5,7 @@
 My name is Yassine and i'm a student who practice IT since his youngest age.
 <br>
 ### 🌱 Currently learning
+https://custom-icon-badges.herokuapp.com/badge/Python-blue?style=for-the-badge&logo=python
 
 **✨I also play some video games during my free time**
 
