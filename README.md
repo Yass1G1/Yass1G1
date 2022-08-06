@@ -39,5 +39,6 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 
 ## Contact
 **If you need to contact me, here is my email**
+
 [![mail_badge](https://img.shields.io/badge/Gmail-pro.chouitiyassine@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836)](mailto:pro.chouitiyassine@gmail.com)
 
