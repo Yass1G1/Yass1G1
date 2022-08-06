@@ -28,6 +28,8 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 |---|---|---|---|---|---|---|---|
 | Level | 🟩🟩🟩🟩      | 🟩🟩🟩🟩       | 🟨🟨🟨🟨    | 🟨🟨🟨    | 🟨🟨   | 🟥🟥  | 🟥🟥  |
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Yass1G1&theme=tokyonight&show_icons=true)
+
 
 ## Some project
 <a href="https://dinogame-project.rf.gd/">
