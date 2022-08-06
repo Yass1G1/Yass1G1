@@ -33,7 +33,7 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 
 
 ## Some project
-| [![My vue website](https://custom-icon-badges.herokuapp.com/badge/My%20Vue%20Website-34495E?&style=for-the-badge&logo=Vue.js)](https://dinogame-project.rf.gd/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yass1G1&repo=Projet_NSI&theme=tokyonight)](https://github.com/Yass1G1/Projet_NSI) |
+| [![My vue website](https://custom-icon-badges.herokuapp.com/badge/My%20Vue%20Website-34495E?&style=for-the-badge&logo=Vue.js)](https://dinogame-project.rf.gd/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yass1G1&repo=Vue-Website&theme=tokyonight)](https://github.com/Yass1G1/Vue-Website) |
 | --- | --- |
 
 
