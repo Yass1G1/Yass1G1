@@ -28,14 +28,16 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 |---|---|---|---|---|---|---|---|
 | Level | 🟩🟩🟩🟩      | 🟩🟩🟩🟩       | 🟨🟨🟨🟨    | 🟨🟨🟨    | 🟨🟨   | 🟥🟥  | 🟥🟥  |
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Yass1G1&theme=tokyonight&show_icons=true)
+| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Yass1G1&theme=tokyonight&show_icons=true) | [![Top Language used](https://github-readme-stats.vercel.app/api/top-langs/?username=Yass1G1&theme=tokyonight)](https://github.com/Yass1G1/) |
+| :---: | :---: |
 
 
 ## Some project
-<a href="https://dinogame-project.rf.gd/">
-  <img src="https://custom-icon-badges.herokuapp.com/badge/My%20Vue%20Website-34495E?style=for-the-badge&logo=Vue.js" />
-</a>
+| [![My vue website](https://custom-icon-badges.herokuapp.com/badge/My%20Vue%20Website-34495E?&style=for-the-badge&logo=Vue.js)](https://dinogame-project.rf.gd/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yass1G1&repo=Projet_NSI&theme=tokyonight)](https://github.com/Yass1G1/Projet_NSI) |
+| --- | --- |
 
 
-<!-- Stats -->
+## Contact
+**If you need to contact me, here is my email**
+[![mail_badge](https://img.shields.io/badge/Gmail-pro.chouitiyassine@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836)](mailto:pro.chouitiyassine@gmail.com)
 
