@@ -41,8 +41,9 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 
 <div align="center">
 
-  | [![Vue website repo](https://github-readme-stats.vercel.app/api/pin/?username=Yass1G1&repo=Vue-Website&theme=tokyonight)](https://github.com/Yass1G1/Vue-Website) |  [![guessing game repo](https://github-readme-stats.vercel.app/api/pin/?username=Yass1G1&repo=Guessing-game&theme=tokyonight)](https://github.com/Yass1G1/Guessing-game) | [![bot connect repo](https://github-readme-stats.vercel.app/api/pin/?username=Yass1G1&repo=Auto-connect-Class-Website&theme=tokyonight)](https://github.com/Yass1G1/Auto-connect-Class-Website) |
+  | [![Vue website repo](https://github-readme-stats.vercel.app/api/pin/?username=Yass1G1&repo=Vue-Website&theme=tokyonight)](https://github.com/Yass1G1/Vue-Website) |  [![guessing game repo](https://github-readme-stats.vercel.app/api/pin/?username=Yass1G1&repo=Guessing-game&theme=tokyonight)](https://github.com/Yass1G1/Guessing-game) |
   | --- | --- |
+  [![bot connect repo](https://github-readme-stats.vercel.app/api/pin/?username=Yass1G1&repo=Auto-connect-Class-Website&theme=tokyonight)](https://github.com/Yass1G1/Auto-connect-Class-Website) |
 
 </div>
 
