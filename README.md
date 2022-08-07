@@ -33,12 +33,23 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 
 
 ## Some project
-| [![My vue website](https://custom-icon-badges.herokuapp.com/badge/My%20Vue%20Website-34495E?&style=for-the-badge&logo=Vue.js)](https://dinogame-project.rf.gd/) | [![Vue website repo](https://github-readme-stats.vercel.app/api/pin/?username=Yass1G1&repo=Vue-Website&theme=tokyonight)](https://github.com/Yass1G1/Vue-Website) | [![guessing game repo](https://github-readme-stats.vercel.app/api/pin/?username=Yass1G1&repo=Guessing-game&theme=tokyonight)](https://github.com/Yass1G1/Guessing-game) 
-| --- | --- | --- |
+<div align="center">
 
+  [![My vue website](https://custom-icon-badges.herokuapp.com/badge/My%20Vue%20Website-34495E?&style=for-the-badge&logo=Vue.js)](https://dinogame-project.rf.gd/) 
+
+</div>
+
+<div align="center">
+
+  | [![Vue website repo](https://github-readme-stats.vercel.app/api/pin/?username=Yass1G1&repo=Vue-Website&theme=tokyonight)](https://github.com/Yass1G1/Vue-Website) |  [![guessing game repo](https://github-readme-stats.vercel.app/api/pin/?username=Yass1G1&repo=Guessing-game&theme=tokyonight)](https://github.com/Yass1G1/Guessing-game) | [![bot connect repo](https://github-readme-stats.vercel.app/api/pin/?username=Yass1G1&repo=Auto-connect-Class-Website&theme=tokyonight)](https://github.com/Yass1G1/Auto-connect-Class-Website) |
+  | --- | --- |
+
+</div>
 
 ## Contact
 **If you need to contact me, here is my email**
+<div align="center">
 
-[![mail_badge](https://img.shields.io/badge/Gmail-pro.chouitiyassine@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836)](mailto:pro.chouitiyassine@gmail.com)
+  [![mail_badge](https://img.shields.io/badge/Gmail-pro.chouitiyassine@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836)](mailto:pro.chouitiyassine@gmail.com)
 
+</div>
