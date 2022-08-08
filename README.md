@@ -15,7 +15,6 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 
 
 <p align="center"> <strong>✨I also play some video games during my free time, feel free to add me on my socials :</strong> </p>
-<br>
 <p align="center">
   <img alt="Discord username" src="https://custom-icon-badges.herokuapp.com/badge/Discord-7288dc?style=for-the-badge&label=ZokoNFT%236403&labelColor=black&logo=Discord" />
   <img alt="Steam username" src="https://custom-icon-badges.herokuapp.com/badge/Steam-01457c?style=for-the-badge&label=Zoko&labelColor=black&logo=Steam" />
@@ -28,9 +27,11 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 |---|---|---|---|---|---|---|---|
 | Level | 🟩🟩🟩🟩      | 🟩🟩🟩🟩       | 🟨🟨🟨🟨    | 🟨🟨🟨    | 🟨🟨   | 🟨🟨  | 🟥🟥  |
 
-| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Yass1G1&theme=tokyonight&show_icons=true) | [![Top Language used](https://github-readme-stats.vercel.app/api/top-langs/?username=Yass1G1&theme=tokyonight)](https://github.com/Yass1G1/) |
-| :---: | :---: |
+<div align="center">
 
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Yass1G1&theme=tokyonight&show_icons=true) | [![Top Language used](https://github-readme-stats.vercel.app/api/top-langs/?username=Yass1G1&theme=tokyonight)](https://github.com/Yass1G1/) |
+  | :---: | :---: |
+</div>
 
 ## Some project
 <div align="center">
