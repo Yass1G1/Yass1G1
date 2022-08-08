@@ -14,7 +14,7 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 ![Vue_logo](https://custom-icon-badges.herokuapp.com/badge/Vue-34495E?style=for-the-badge&logo=Vue.js)
 
 
-**✨I also play some video games during my free time, feel free to add me on my socials :**
+<p align="center"> <strong>✨I also play some video games during my free time, feel free to add me on my socials :</strong> </p>
 <br>
 <p align="center">
   <img alt="Discord username" src="https://custom-icon-badges.herokuapp.com/badge/Discord-7288dc?style=for-the-badge&label=ZokoNFT%236403&labelColor=black&logo=Discord" />
@@ -49,7 +49,7 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 </div>
 
 ## Contact
-**If you need to contact me, here is my email**
+<p align="center"> <strong>🗨️ If you need to contact me, here is my email :<strong> </p>
 <div align="center">
 
   [![mail_badge](https://img.shields.io/badge/Gmail-pro.chouitiyassine@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836)](mailto:pro.chouitiyassine@gmail.com)
