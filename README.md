@@ -16,9 +16,16 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 
 <p align="center"> <strong>✨I also play some video games during my free time, feel free to add me on my socials :</strong> </p>
 <p align="center">
-  <img alt="Discord username" src="https://custom-icon-badges.herokuapp.com/badge/Discord-7288dc?style=for-the-badge&label=ZokoNFT%236403&labelColor=black&logo=Discord" />
-  <img alt="Steam" src="https://custom-icon-badges.herokuapp.com/badge/Steam-01457c?style=for-the-badge&label=Zoko&labelColor=black&logo=Steam" />
-  <img alt="Instagram" src="https://custom-icon-badges.herokuapp.com/badge/Instagram-9A3888?style=for-the-badge&label=yass_.ch&labelColor=black&logo=Instagram" />
+  <a href="https://discord.gg/C9YMpbvueE">
+    <img alt="Discord username" src="https://custom-icon-badges.herokuapp.com/badge/Discord-7288dc?style=for-the-badge&label=ZokoNFT%236403&labelColor=black&logo=Discord" />
+  </a>
+  <a href="https://steamcommunity.com/id/ZokoElDozo">
+     <img alt="Steam" src="https://custom-icon-badges.herokuapp.com/badge/Steam-01457c?style=for-the-badge&label=Zoko&labelColor=black&logo=Steam" />
+  </a>
+  <a href="https://www.instagram.com/yass_.ch/">
+    <img alt="Instagram" src="https://custom-icon-badges.herokuapp.com/badge/Instagram-9A3888?style=for-the-badge&label=yass_.ch&labelColor=black&logo=Instagram" />
+  </a>
+ 
 </p>
 
 ## My skills 
