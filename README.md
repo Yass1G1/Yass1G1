@@ -30,9 +30,9 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 
 ## My skills 
 
-| Language | ![css_logo](https://custom-icon-badges.herokuapp.com/badge/CSS3-1471b6?style=for-the-badge&logo=css) | ![html logo](https://custom-icon-badges.herokuapp.com/badge/HTML5-f0642b?style=for-the-badge&logo=html) | ![Python Logo](https://custom-icon-badges.herokuapp.com/badge/Python-366e9e?style=for-the-badge&logo=python&logoColor=white) | ![C_language_Logo](https://custom-icon-badges.herokuapp.com/badge/C%20language-5d6cbf?style=for-the-badge&logo=C) | ![Vue Logo](https://custom-icon-badges.herokuapp.com/badge/Vue.js-34495E?style=for-the-badge&logo=Vue.js)   | ![Bash Logo](https://custom-icon-badges.herokuapp.com/badge/Bash\/Unix-3f464a?style=for-the-badge&logo=GNU%20Bash) | ![JS Logo](https://custom-icon-badges.herokuapp.com/badge/JS-e5bc00?style=for-the-badge&logo=js) | 
+| Language | ![css_logo](https://custom-icon-badges.herokuapp.com/badge/CSS3-1471b6?style=for-the-badge&logo=css) | ![html logo](https://custom-icon-badges.herokuapp.com/badge/HTML5-f0642b?style=for-the-badge&logo=html) | ![Bash Logo](https://custom-icon-badges.herokuapp.com/badge/Bash\/Unix-3f464a?style=for-the-badge&logo=GNU%20Bash) | ![Python Logo](https://custom-icon-badges.herokuapp.com/badge/Python-366e9e?style=for-the-badge&logo=python&logoColor=white) | ![C_language_Logo](https://custom-icon-badges.herokuapp.com/badge/C%20language-5d6cbf?style=for-the-badge&logo=C) | ![Vue Logo](https://custom-icon-badges.herokuapp.com/badge/Vue.js-34495E?style=for-the-badge&logo=Vue.js)  |  ![JS Logo](https://custom-icon-badges.herokuapp.com/badge/JS-e5bc00?style=for-the-badge&logo=js) | 
 |---|---|---|---|---|---|---|---|
-| Level | 🟩🟩🟩🟩      | 🟩🟩🟩🟩       | 🟨🟨🟨🟨    | 🟨🟨🟨    | 🟨🟨🟨   | 🟨🟨  | 🟨🟨 |
+| Level | 🟩🟩🟩🟩      | 🟩🟩🟩🟩       | 🟩🟩🟩🟩 | 🟨🟨🟨🟨    | 🟨🟨🟨    | 🟨🟨🟨   | 🟨🟨  |
 
 <div align="center">
 
