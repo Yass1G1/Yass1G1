@@ -14,7 +14,7 @@ My name is Yassine and i'm a student who practice IT since his youngest age.
 ![React Logo](https://custom-icon-badges.herokuapp.com/badge/React-1C3950?style=for-the-badge&logo=React)
 
 
-<p align="center"> <strong>✨I also play some video games during my free time, feel free to add me on my socials :</strong> </p>
+<p align="center"> <strong>✨If you have any inquiries, feel free to add me on my socials :</strong> </p>
 <p align="center">
   <a href="https://discord.gg/C9YMpbvueE">
     <img alt="Discord username" src="https://custom-icon-badges.herokuapp.com/badge/Discord-7288dc?style=for-the-badge&label=yqss&labelColor=black&logo=Discord" />
